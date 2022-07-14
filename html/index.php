@@ -1,40 +1,19 @@
-<!DOCTYPE html>
 <html>
 <head>
-
-		<link rel="stylesheet" href="styles/Css.css">
-
+		<link rel="stylesheet" href="styles/LoginStyles.css">
 </head>
-
 
 
 <body>
 
-<form class="form">
+<form action="verify.php" class="form" method="post">
 
 <h1>LOGIN FORM</h1>
-
-
-<div>
-		<label>
-			Enter Username<p>
-		</label>
-		<input type="text" placeholder="Username">
-</div>
-
-<div>
-		<label>
-			Enter password<p>
-		</label>
-		<input type="password" placeholder="Password">
-</div>
-
-	<button>
-		Sign in
-	</button>
-	<p>
-	
+	username:<input type="text" placeholder="Username" name='username'><p>
+	password:<input type="password" placeholder="Password" name='password'><p>
+	<input type="submit" name="submit" value="LogIn" />
 </form>
 
-
 </html>
+
+
