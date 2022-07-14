@@ -11,8 +11,10 @@
 <h1>LOGIN FORM</h1>
 	username:<input type="text" placeholder="Username" name='username'><p>
 	password:<input type="password" placeholder="Password" name='password'><p>
-	<input type="submit" name="submit" value="LogIn" />
+	<input type="submit" name="submit" value="Log In" />
+	<a href="SignUp.php" class="btn">Sign Up</a>
 </form>
+
 
 </html>
 

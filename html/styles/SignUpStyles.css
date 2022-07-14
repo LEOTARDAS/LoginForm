@@ -1,17 +1,17 @@
 
 body{
-	background-color: blue;
+	background-color: darkslateblue;
 }
 
 h1 {
-	color: blue;
+	color: darkslateblue;
 	text-align: center;
 }
 
 form{
 	align-self: center;
 	text-align: center;
-	background-color: lightblue;
+	background-color: darkseagreen;
 	border: 5px;
 	width: 500px;
 	margin: 0px auto;
