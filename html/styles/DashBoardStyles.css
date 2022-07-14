@@ -1,0 +1,26 @@
+body{
+	background-color: dimgray;
+}
+form{
+	align-self: center;
+	background-color: black;
+	color: white;
+	border: 5px;
+	width: 500px;
+	margin: 0px auto;
+	text-align: center;
+}
+h1{
+	color: darkgray;
+	text-align: center;
+	text-shadow:  2px 2px gray;
+}
+h2{
+	font-size: 6;
+	text-align: left;
+	color: darkgray;
+}
+small{
+	color: darkgray;
+}
+
